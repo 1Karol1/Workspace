@@ -1,0 +1,11 @@
+What is Git?
+Git is version control tool.  Git hub is hosting service for Git.
+
+Can you think of an analogy to describe them?
+CTRL + Z in many programs works simillary by undoing last change. Using pencil and eraser is also good example of some kind version control in real life. Online drives and cloud services are also example of version control.
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+Yes. I imagine it as google drive so git is local folder on my PC and github is online drive which is synchronised with my folder.
+
+id you stick to the timebox suggestions? If not, why not?
+I have managed to finish this material qicker. I think I do understand that part. It was very useful though.

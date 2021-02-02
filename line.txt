@@ -1,0 +1,15 @@
+In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
+It's basic portal to communicate with computer that allows us to use words instead of binary code that is extremely hard to process by humans. It's a gateway to humnan computer communication. Fitst analogy that I can think of is chats like MSN or Skype with the difference that on the other side there is machine not human. Another analogy is writting letters.
+
+In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
+I did start to use and play with toggl, it was more like a test this time but next time I will use it properly.
+
+Name 5 commands you used and what they do
+Format C: -You probably don't want to use this one. :D
+mkdir -creates new directory
+git push --set-upstream origin -creates new branch
+cd -navigates through directories
+ls -lists contents of current directory
+
+Did you learn anything unexpected?
+I have learned not to overload my brain by memorizing everything. Hey it's XXI century and all you need is already there online. Just look for it
